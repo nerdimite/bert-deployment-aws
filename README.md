@@ -6,10 +6,10 @@ This repository contains the code for "Deploying a BERT (Pytorch) Model to AWS" 
 
 In this part, the BERT model trained in the previous parts is deployed on the cloud and the React Frontend is connected to the Endpoint on AWS.
 
-Checkout the code from the previous parts here:
+Checkout the code from the other parts here:
 
-1. [Part 1](https://github.com/theneuralbeing/bert-finetuning-webinar)
-2. [Part 2](https://github.com/theneuralbeing/bert-web-app)
+- [Part 1](https://github.com/theneuralbeing/bert-finetuning-webinar)
+- [Part 2](https://github.com/theneuralbeing/bert-web-app)
 
 ### Usage
 
